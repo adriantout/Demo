@@ -14,12 +14,12 @@
   "arContent": {
     "@type": "VideoObject",
     "name": "Starbucks Demo",
-    "contentUrl": "https://raw.githubusercontent.com/belindazeng/demo/gh-pages/starbucks.mp4",
+    "contentUrl": "https://raw.githubusercontent.com/adriantout/demo/gh-pages/starbucks.mp4",
     "url": "http://www.starbucks.com/",
     "publisher": {
       "@type": "Organization",
-      "name": "Google",
-      "logo": "https://raw.githubusercontent.com/hgharrygo/ianlens/master/google-g.png"
+      "name": "Starbucks",
+      "logo": "https://raw.githubusercontent.com/adriantout/demo/gh-pages/starbuckslogo.jpg"
     }
   }
 }
