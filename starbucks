@@ -5,7 +5,7 @@
   "arTarget": {
     "@type": "ARImageTarget",
     "name" : "Starbucks.name",
-    "image": "https://raw.githubusercontent.com/belindazeng/demo/gh-pages/bond.jpg"
+    "image": "https://raw.githubusercontent.com/adriantout/demo/gh-pages/starbucks.png"
   },
   "arPlacement": {
     "@type": "ARPlanarReplacement",
@@ -13,7 +13,7 @@
   },
   "arContent": {
     "@type": "VideoObject",
-    "name": "this is a video of james bond",
+    "name": "Starbucks Demo",
     "contentUrl": "https://raw.githubusercontent.com/belindazeng/demo/gh-pages/bond.mp4",
     "url": "http://www.007.com/",
     "publisher": {
