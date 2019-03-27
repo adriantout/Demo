@@ -14,8 +14,8 @@
   "arContent": {
     "@type": "VideoObject",
     "name": "Starbucks Demo",
-    "contentUrl": "https://raw.githubusercontent.com/belindazeng/demo/gh-pages/bond.mp4",
-    "url": "http://www.007.com/",
+    "contentUrl": "https://raw.githubusercontent.com/belindazeng/demo/gh-pages/starbucks.mp4",
+    "url": "http://www.starbucks.com/",
     "publisher": {
       "@type": "Organization",
       "name": "Google",
