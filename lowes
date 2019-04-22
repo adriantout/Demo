@@ -1,0 +1,26 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.googleapis.com",
+  "@type": "ARArtifact",
+  "arTarget": {
+    "@type": "ARImageTarget",
+    "name" : "lowes.name",
+    "image": "https://raw.githubusercontent.com/adriantout/demo/gh-pages/lowes.png"
+  },
+  "arPlacement": {
+    "@type": "ARPlanarReplacement",
+    "scaleMode": "ScaleModeFit"
+  },
+  "arContent": {
+    "@type": "VideoObject",
+    "name": "Lowes Demo",
+    "contentUrl": "https://raw.githubusercontent.com/adriantout/demo/gh-pages/lowes.mp4",
+    "url": "http://www.lowes.com",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Lowes",
+      "logo": "https://raw.githubusercontent.com/adriantout/demo/gh-pages/loweslogo.png"
+    }
+  }
+}
+</script>
